@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Emerson Renaki</title>
+    </head>
+    <body>
+        <header>
+            <h1>Emerson Renaki</h1>
+        </header>
+        <section>
+            <header>
+                <h2>Posts</h2>
+            </header>
+            <article>
+                <header>
+                    <h3>Post #1</h3>
+                </header>
+                <p>
+                    Os <a href="https://aws.amazon.com/pt/events/summits/sao-paulo/"target="_blank">AWS</a> Summits Americas 
+                    são eventos regionais cujo objetivo é reunir a comunidade de computação em nuvem para que todos possam 
+                    se <a href="mailto:emersonrenaki0@gmail.com">conectar</a>, colaborar e aprender sobre a AWS.
+                    As conferências são realizadas nas principais cidades das Américas do Norte e do Sul e atraem profissionais técnicos de vários setores, segmentos e níveis de aprendizado que querem aprender como a AWS pode ajudá-los a inovar rapidamente e oferecer serviços com escala, flexibilidade e confiabilidade.
+                </p>
+            </article>
+        </section>
+        <footer>
+            
+        </footer>
+    </body>
+</html>
